@@ -4,20 +4,20 @@ Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduct
 
 ## TODO
 
-- [ ] Select a font family (maybe one for heading and one for body?)
-- [ ] Select an icon library
-- [ ] Add "slogan"
-- [ ] Add links
-  - [ ] Facebook
-  - [ ] Threads
-  - [ ] Insta (M2)
-  - [ ] LinkedIn
-  - [ ] Discord
-  - [ ] Github
-  - [ ] M2 site
-  - [ ] MVR Site
-  - [ ] Insta (mvr)
-  - [ ] Rail Ops Site
+- [x] Select a font family (maybe one for heading and one for body?)
+- [x] Select an icon library
+- [x] Add "slogan"
+- [x] Add links
+  - [x] Facebook
+  - [x] Threads
+  - [x] Insta (M2)
+  - [x] LinkedIn
+  - [x] Discord
+  - [x] Github
+  - [x] M2 site
+  - [x] MVR Site
+  - [x] Insta (mvr)
+  - [x] Rail Ops Site
 - [ ] Tracking (Plausible)
   - [ ] Track clicks on individual buttons
 

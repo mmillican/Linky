@@ -17,11 +17,17 @@ links:
     color: '#181717'
     url: 'https://github.com/mmillican'
 
+  - name: LinkedIn
+    brand: linkedin
+    icon: LinkedIn
+    color: ''
+    url: https://www.linkedin.com/in/matt-millican-0b1b3b1/
+
   - name: Discord
     brand: discord
     icon: Discord
     color: '#5865F2'
-    url: https://discord.com
+    url: https://discord.gg/VsHswaNfB6
 
   - name: Facebook
     brand: facebook
@@ -34,11 +40,6 @@ links:
     icon: Threads
     color: '#000000'
     url: 'https://threads.com'
-
-  # - name: LinkedIn
-  #   icon: linkedin.svg
-  #   color: ''
-  #   url: https://www.linkedin.com/in/matt-millican-0b1b3b1/
 
   - name: Mill Valley Lines (model railroad)
     brand: mvr
