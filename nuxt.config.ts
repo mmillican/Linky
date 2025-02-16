@@ -11,6 +11,16 @@ export default defineNuxtConfig({
 
   modules: [
     '@nuxt/content',
+    ['@nuxtjs/google-fonts',
+      {
+        families: {
+          Roboto: {
+            wght: [100, 400, 500, 600, 700],
+            ital: [100],
+          },
+        }
+      }
+    ],
   ],
 
   vite: {
