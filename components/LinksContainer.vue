@@ -1,5 +1,5 @@
 <template>
-  <div class="max-w-sm mx-auto text-white text-center flex flex-col space-y-6">
+  <div class="max-w-sm mx-auto text-white text-center flex flex-col space-y-4">
     <LinkButton v-for="(link, idx) in data?.links" :key="idx" :link="link" />
   </div>
 
