@@ -1,5 +1,6 @@
 <template>
-  <div class="max-w-sm mx-auto px-4 sm:px-0 text-white flex flex-col space-y-4">
+  <!--  space-y-4 doesn't seem to be working after deploying -->
+  <div class="max-w-sm mx-auto px-4 sm:px-0 text-white flex flex-col">
     <LinkButton v-for="(link, idx) in data?.links" :key="idx" :link="link" />
   </div>
 
