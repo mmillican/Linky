@@ -11,6 +11,7 @@ export default defineNuxtConfig({
 
   modules: [
     '@nuxt/content',
+    '@nuxtjs/plausible',
     ['@nuxtjs/google-fonts',
       {
         families: {
@@ -21,6 +22,10 @@ export default defineNuxtConfig({
         }
       }
     ],
+    ['@nuxtjs/plausible', {
+      // Prevent tracking on localhost
+      ignoredHostnames: ['localhost'],
+    }],
   ],
 
   vite: {
