@@ -1,8 +1,11 @@
 <template>
-  <header class="mt-12 mb-4 text-gray-400 text-center">
-
-    <p class="px-4 sm:px-0">
+  <footer class="mt-12 mb-4 px-4 sm:px-0 text-gray-400 text-center space-y-2">
+    <p class="">
       &copy; Matt Millican
     </p>
-  </header>
+
+    <p class="text-sm">
+      Built with Nuxt.js, Tailwind CSS, and Netlify.
+    </p>
+  </footer>
 </template>
