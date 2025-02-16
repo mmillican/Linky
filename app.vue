@@ -4,6 +4,8 @@
       <Header />
 
       <LinksContainer />
+
+      <Footer />
     </div>
   </div>
 </template>
