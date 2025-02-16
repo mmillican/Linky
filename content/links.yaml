@@ -1,0 +1,65 @@
+links:
+  - name: Blog
+    brand: m2
+    icon: ''
+    color: '#4fcfda'
+    url: https://mattmillican.com
+
+  - name: Instagram
+    brand: instagram
+    icon: Instagram
+    color: '#FF0069a'
+    url: 'https://www.instagram.com/millicanmatt/'
+
+  - name: GitHub
+    brand: github
+    icon: GitHub
+    color: '#181717'
+    url: 'https://github.com/mmillican'
+
+  - name: Discord
+    brand: discord
+    icon: Discord
+    color: '#5865F2'
+    url: https://discord.com
+
+  - name: Facebook
+    brand: facebook
+    icon: Facebook
+    color: '#0866FF'
+    url: 'https://www.facebook.com/matt.millican'
+
+  - name: Threads
+    brand: threads
+    icon: Threads
+    color: '#000000'
+    url: 'https://threads.com'
+
+  # - name: LinkedIn
+  #   icon: linkedin.svg
+  #   color: ''
+  #   url: https://www.linkedin.com/in/matt-millican-0b1b3b1/
+
+  - name: Mill Valley Lines (model railroad)
+    brand: mvr
+    icon: ''
+    color: '#ed1c29'
+    url: https://millvalleylines.com
+
+  - name: MVL Facebook
+    brand: facebook
+    icon: Facebook
+    color: '#0866FF'
+    url: https://www.facebook.com/mvr.mattmillican
+
+  - name: MVL Instagram
+    brand: instagram
+    icon: Instagram
+    color: '#FF0069a'
+    url: https://www.instagram.com/mvr.mattmillican
+
+  - name: Rail Ops (app)
+    brand: railops
+    icon: ''
+    color: '#4298cc'
+    url: https://railops.app

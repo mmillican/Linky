@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-facebook: #0866FF;
+  --color-discord: #5865F2;
+  --color-instagram: #FF0069;
+  --color-github: #181717;
+  --color-threads: #000000;
+  --color-mvr: #ed1c29;
+  --color-m2: #EF7B45;
+  --color-railops: #4298cc;
+}
