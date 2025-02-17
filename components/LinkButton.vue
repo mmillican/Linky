@@ -1,6 +1,6 @@
 <template>
   <!-- TODO: Figure out why `space-y-4` isn't working on the container and then remove `my-3` -->
-  <a :href="props.link.url" target="_blank" class="my-3 text-white font-medium py-3 px-4 rounded-md flex items-center" :class="`bg-${props.link.brand} hover:bg-${props.link.brand}/70`">
+  <a :href="props.link.url" target="_blank" class="my-3 text-white text-lg font-medium py-3 px-4 rounded-md flex items-center" :class="`bg-${props.link.brand} hover:bg-${props.link.brand}/80`">
     <div class="w-6 h-6 fill-white mr-3">
       <Discord v-if="props.link.icon === 'Discord'" />
       <Facebook v-if="props.link.icon === 'Facebook'" />
