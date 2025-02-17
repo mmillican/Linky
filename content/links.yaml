@@ -35,11 +35,12 @@ links:
     color: '#0866FF'
     url: 'https://www.facebook.com/matt.millican'
 
-  - name: Threads
-    brand: threads
-    icon: Threads
-    color: '#000000'
-    url: 'https://threads.com'
+  # Not really using this yet
+  # - name: Threads
+  #   brand: threads
+  #   icon: Threads
+  #   color: '#000000'
+  #   url: 'https://threads.com'
 
   # - name: Mill Valley Lines (model railroad)
   #   brand: mvr
