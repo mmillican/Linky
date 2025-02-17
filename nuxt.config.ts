@@ -36,10 +36,17 @@ export default defineNuxtConfig({
 
   app: {
     head: {
+      title: 'Find Matt Millican',
+      meta: [
+        { hid: 'description', name: 'description', content: 'See where to find Matt Millican on the internet.' },
+        { hid: 'og:title', property: 'og:title', content: 'Find Matt Millican' },
+        { hid: 'og:description', property: 'og:description', content: 'See where to find Matt Millican on the internet.' },
+        { hid: 'og:image', property: 'og:image', content: 'https://links.m2dev.to/_nuxt/avatar.TQpsZJpK.jpg' },
+      ],
       bodyAttrs: {
         class: 'bg-gray-800',
-      }
-    }
+      },
+    },
   },
 })
 
