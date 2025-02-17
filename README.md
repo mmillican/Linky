@@ -1,27 +1,20 @@
-# Nuxt Minimal Starter
+# Linky
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Source code for `https://links.m2dev.to` for where to find Matt on the interwebz.
+
+This was inspired by [Techno Tim's](https://links.technotim.live/) link page.
 
 ## TODO
 
-- [x] Select a font family (maybe one for heading and one for body?)
-- [x] Select an icon library
-- [x] Add "slogan"
-- [x] Add links
-  - [x] Facebook
-  - [x] Threads
-  - [x] Insta (M2)
-  - [x] LinkedIn
-  - [x] Discord
-  - [x] Github
-  - [x] M2 site
-  - [x] MVR Site
-  - [x] Insta (mvr)
-  - [x] Rail Ops Site
-- [ ] Tracking (Plausible)
-  - [ ] Track clicks on individual buttons
+- [ ] Track clicks on individual buttons
+- [ ] Split the page into different sections - Me, Railroad, etc
 
-## Setup
+## Nuxt Minimal Starter
+
+Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+
+
+### Setup
 
 Make sure to install dependencies:
 
@@ -39,7 +32,7 @@ yarn install
 bun install
 ```
 
-## Development Server
+### Development Server
 
 Start the development server on `http://localhost:3000`:
 
@@ -57,7 +50,7 @@ yarn dev
 bun run dev
 ```
 
-## Production
+### Production
 
 Build the application for production:
 

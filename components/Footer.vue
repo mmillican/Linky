@@ -5,7 +5,9 @@
     </p>
 
     <p class="text-sm">
-      Built with Nuxt.js, Tailwind CSS, and Netlify.
+      <a href="https://github.com/mmillican/linky" title="View the source on GitHub" class="underline underline-offset-3 hover:no-underline" target="_blank">
+        Built with Nuxt.js, Tailwind CSS, and Netlify.
+      </a>
     </p>
   </footer>
 </template>
