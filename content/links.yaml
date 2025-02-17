@@ -21,7 +21,7 @@ links:
     brand: linkedin
     icon: LinkedIn
     color: ''
-    url: https://www.linkedin.com/in/matt-millican-0b1b3b1/
+    url: https://www.linkedin.com/in/mattmillican/
 
   - name: Discord
     brand: discord
@@ -41,23 +41,23 @@ links:
     color: '#000000'
     url: 'https://threads.com'
 
-  - name: Mill Valley Lines (model railroad)
-    brand: mvr
-    icon: ''
-    color: '#ed1c29'
-    url: https://millvalleylines.com
+  # - name: Mill Valley Lines (model railroad)
+  #   brand: mvr
+  #   icon: ''
+  #   color: '#ed1c29'
+  #   url: https://millvalleylines.com
 
   - name: MVL Facebook
     brand: facebook
     icon: Facebook
     color: '#0866FF'
-    url: https://www.facebook.com/mvr.mattmillican
+    url: https://www.facebook.com/millvalleyrr/
 
-  - name: MVL Instagram
-    brand: instagram
-    icon: Instagram
-    color: '#FF0069a'
-    url: https://www.instagram.com/mvr.mattmillican
+  # - name: MVL Instagram
+  #   brand: instagram
+  #   icon: Instagram
+  #   color: '#FF0069a'
+  #   url: https://www.instagram.com/mvr.mattmillican
 
   - name: Rail Ops (app)
     brand: railops
